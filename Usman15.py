@@ -47,18 +47,18 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """  ╔════╗╔═══╗╔═══╗╔╗─╔╗╔═╗─╔╗╔══╗╔═══╗╔═══╗╔╗───
-║╔╗╔╗║║╔══╝║╔═╗║║║─║║║║╚╗║║╚╣─╝║╔═╗║║╔═╗║║║───
-╚╝║║╚╝║╚══╗║║─╚╝║╚═╝║║╔╗╚╝║─║║─║║─╚╝║║─║║║║───
-──║║──║╔══╝║║─╔╗║╔═╗║║║╚╗║║─║║─║║─╔╗║╚═╝║║║─╔╗
-──║║──║╚══╗║╚═╝║║║─║║║║─║║║╔╣─╗║╚═╝║║╔═╗║║╚═╝║
-──╚╝──╚═══╝╚═══╝╚╝─╚╝╚╝─╚═╝╚══╝╚═══╝╚╝─╚╝╚═══╝
+╔═╗╔═╗──╔╗─────────╔═══╦╗
+║║╚╝║║──║║─────────║╔═╗║║
+║╔╗╔╗╠══╣╚═╦═╦══╦═╗║║─║║║╔╗
+║║║║║║║═╣╔╗║╔╣╔╗║╔╗╣╚═╝║║╠╣
+║║║║║║║═╣║║║║║╔╗║║║║╔═╗║╚╣║
+╚╝╚╝╚╩══╩╝╚╩╝╚╝╚╩╝╚╩╝─╚╩═╩╝
                                             
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;97m: \033[1;92mTechnical Usman Trick
-\033[1;96mInstagram \033[1;95m: \033[1;92mhttps://www.Instagram.com/usmankhan5792
-\033[1;96mFacebook  \033[1;934m: \033[1;92mhttps://www.fb.com/Usman Shehbaz
-\033[1;96mGithub \033[1;92m: \033[1;92mhttps://github.com/usman5454
+\033[1;96mAuthor  \033[1;97m: \033[1;92mMEHRANALI
+\033[1;96mInstagram \033[1;95m: \033[1;92mhttps://www.Instagram.com/MehranAli.78
+\033[1;96mFacebook  \033[1;934m: \033[1;92mhttps://www.fb.com/MehranAli.78
+\033[1;96mGithub \033[1;92m: \033[1;92mhttps://github.com/mehranali
 \033[1;91m======================================="""
 
 def tik():
@@ -79,15 +79,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;93mAuthor  \033[1;93m: \033[1;92mTechnical Usman Trick
-\033[1;95mInstagram \033[1;93m: \033[1;92mhttps://www.Instagram.com/usmankhan5792
-\033[1;97mFacebook  \033[1;93m: \033[1;92mhttps://www.Fb.com/Usman Shehbaz
-\033[1;91mGithub \033[1;93m: \033[1;92mhttps://Github.com/usman5454
+\033[1;93mAuthor  \033[1;93m: \033[1;92mMehranAli
+\033[1;95mInstagram \033[1;93m: \033[1;92mhttps://www.Instagram.com/MehranAli.78 
+\033[1;97mFacebook  \033[1;93m: \033[1;92mhttps://www.Fb.com/MehranAli.78
+\033[1;91mGithub \033[1;93m: \033[1;92mhttps://Github.com/MehranAli 
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "trick"
-CorrectPassword = "trick"
+CorrectUsername = "Mehran"
+CorrectPassword = "Ali"
 
 loop = 'true'
 while (loop == 'true'):
@@ -99,10 +99,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCQdBT_TMMD3l6CrS6JxiUSQ')
+            os.system('xdg-open https://www.youtube.com/TERMUXHACKERS')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCQdBT_TMMD3l6CrS6JxiUSQ')
+        os.system('xdg-open https://www.youtube.com/TERMUXHACKERS')
 
 def login():
 	os.system('clear')
